@@ -1,0 +1,124 @@
+{
+  "apps": {
+    "pao_bank": {
+      "name": "PAO Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1505282324",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.paobank.mobilebank.personal",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "ant_bank": {
+      "name": "Ant Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1494094567",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": false,
+        "package_name": "com.hk.ios.phone.portal",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "airstar_bank": {
+      "name": "Airstar Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1488056130",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.airstarbank.mobilebanking",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "fusion_bank": {
+      "name": "Fusion Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1484615237",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.fusionbank.vb",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "livi_bank": {
+      "name": "livi Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1481532757",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.livibank.hk",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "welab_bank": {
+      "name": "WeLab Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1493956050",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "welab.bank",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "za_bank": {
+      "name": "ZA Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1477150600",
+        "countries": ["hk", "us"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.zhongan.ibank",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    },
+    "mox_bank": {
+      "name": "Mox Bank",
+      "app_store": {
+        "enabled": true,
+        "app_id": "1505743481",
+        "countries": ["hk"],
+        "sort_methods": ["mostRecent", "mostHelpful"]
+      },
+      "play_store": {
+        "enabled": true,
+        "package_name": "com.mox.app",
+        "countries": ["hk"],
+        "sort_methods": ["NEWEST", "RATING"]
+      }
+    }
+  }
+} 

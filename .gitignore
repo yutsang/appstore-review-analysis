@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Specific - Output
+output/
+
+# Project Specific - Logging
+logs/
+*.log
+
+# Project Specific - Generated analysis
+analysis/
+
+# Config with keys / secrets (use config/settings.example.json as template)
+config/settings.json
+config/settings_local.json
+config/settings_production.json
+config/*.local.json
+config/*.secret.json
+
+# API Keys and Sensitive Data
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*credentials*
+*secrets*
+
+# Temporary files
+*.tmp
+*.temp
